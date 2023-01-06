@@ -1,0 +1,27 @@
+*{
+  
+font-family: 'Roboto', sans-serif;
+}
+ 
+/* Banner Start */
+
+#banner{
+  background-image: url(../images/banner/banner3.png);
+  height: 810px;
+}
+
+.container{
+  color: #fff;
+  margin-left:800px;
+  margin-right:100px;
+  padding-top:200px;
+  padding-left: 50px;
+  text-align:right;
+}
+header h1{
+  font-size:60px;
+}
+#btn-banner{
+  padding: 5px 10px;
+}
+//*Banner End*//
