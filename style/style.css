@@ -99,10 +99,10 @@ header h1{
   margin:130px 200px;
   color: #fff;
   font-size:30px;
-  padding:50px;
+  padding:30px;
   text-align:left;
   background-repeat: no-repeat;
-  
+  background-size: cover;
 }
 .btn-watch{
   padding:10px 20px;
