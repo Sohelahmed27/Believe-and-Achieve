@@ -24,4 +24,22 @@ header h1{
 #btn-banner{
   padding: 5px 10px;
 }
-//*Banner End*//
+
+/* failure-list */
+
+#failure{
+  display:flex;
+  justify-content:center;
+  margin:130px;
+  
+  
+}
+#failure-list{
+  padding-top:300px;
+  padding-left:50px;
+  
+}
+#failure-list h1{
+  font-size:40px;
+
+}
