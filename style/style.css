@@ -45,7 +45,7 @@ header h1{
 }
 
 #plan-container{
-  margin: 130px 200px;
+  margin: 130px 150px;
 
 }
 
@@ -60,3 +60,23 @@ header h1{
   justify-content:center;
   text-align:center;
 }
+
+#watch{
+  background: url(../images/watch.png) no-repeat;
+  margin:130px 150px;
+  height:300px;
+  color: #fff;
+  font-size:30px;
+  padding:50px;
+  text-align:left;
+}
+.btn-watch{
+  padding:10px 20px;
+  width:120px;
+  color: blue;
+  border-radius:5px;
+  font-weight:bold;
+}
+  
+
+
